@@ -12,3 +12,6 @@ This syncs 2 directorys
 
 #echo text with number
 This creates text with a number. Just a help if you want counted sentences.
+
+#Doc with date
+This copy a doc from yesterday and rename it. You can use it for protocols. Easy to change if you want a daily doc based on a formular. 
